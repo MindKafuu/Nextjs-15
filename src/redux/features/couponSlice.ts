@@ -74,8 +74,6 @@ const couponSlice = createSlice({
         catLst.push(p.category);
       });
 
-      console.log(catLst);
-
       state.forEach((c: Campaigns) => {
         c.CouponList.forEach((i: CouponDetail) => {
           if (i.Category === "On Top") {

@@ -10,9 +10,6 @@ import { useAppDispatch, useAppSelector } from "@/redux/hook";
 
 export const CampaignItemCard = ({ coupon }: { coupon: CouponDetail }) => {
   const dispatch = useAppDispatch();
-  const couponList = useAppSelector((state) => state.couponReducer);
-  const campaignList = useAppSelector((state) => state.campaignReducer);
-  // const [isCanceled, setIsCanceled] = useState<boolean>(false);
 
   const handleCheckCoupon = () => {
     const category = coupon.Category;

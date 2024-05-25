@@ -67,7 +67,6 @@ export const TotalCard = () => {
     ontop = FindTotalOntop(couponList, cartList);
     seasonal = FindTotalSeasonal(couponList, FindTotalPrice(cartList));
 
-    console.log(ontop);
     dispatch(setCoupon(coupon));
     dispatch(setOntop(ontop));
     dispatch(setSeasonal(seasonal));
