@@ -63,7 +63,7 @@ export const PointCard = ({
         {useMemo(
           () => (
             <label className="label-l6 text-[#667085] text-start">
-              คุณมีคะแนนสะสม: {userInfo.points} คะแนน
+              คุณมีคะแนนสะสม: {NumberFormat(userInfo.points, 0)} คะแนน
             </label>
           ),
           [userInfo]
@@ -102,7 +102,11 @@ export const PointCard = ({
           () => (
             <label className="label-l7 text-[#d45c7e] mt-2">
               * ใช้ได้ไม่เกิน{" "}
-              {Math.round((FindTotalPrice(cartList) * 20) / 100) ?? 0} คะแนน
+              {NumberFormat(
+                Math.round((FindTotalPrice(cartList) * 20) / 100),
+                0
+              ) ?? 0}{" "}
+              คะแนน
             </label>
           ),
           [cartList]

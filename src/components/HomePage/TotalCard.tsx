@@ -127,7 +127,7 @@ export const TotalCard = () => {
               {useMemo(
                 () => (
                   <label className="ml-2">
-                    คุณมีคะแนน: {userInfo.points} คะแนน
+                    คุณมีคะแนน: {NumberFormat(userInfo.points, 0)} คะแนน
                   </label>
                 ),
                 [userInfo]
