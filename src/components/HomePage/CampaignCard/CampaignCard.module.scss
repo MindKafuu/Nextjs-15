@@ -1,0 +1,13 @@
+.popupBtn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  padding: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  gap: 0.5rem;
+  width: 100%;
+  background: white;
+}

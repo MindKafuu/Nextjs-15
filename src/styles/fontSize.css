@@ -1,0 +1,310 @@
+.title-h1 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.title-h2 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.title-h3 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.title-h4 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+/* Bold */
+.label-h1 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-h2 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-h3 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-h4 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-h5 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-h6 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-h7 {
+    font-weight: 600 !important;
+    font-family: "Itim", sans-serif !important;
+}
+
+/* Normal Size */
+.label-l1 {
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-l2 {
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-l3 {
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-l4 {
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-l5 {
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-l6 {
+    font-family: "Itim", sans-serif !important;
+}
+
+.label-l7 {
+    font-family: "Itim", sans-serif !important;
+}
+
+
+/* หน้าจอขนาด PC */
+@media (min-width: 1024px) {
+    .title-h1 {
+        font-size: 34px !important;
+    }
+
+    .title-h2 {
+        font-size: 32px !important;
+    }
+
+    .title-h3 {
+        font-size: 30px !important;
+    }
+
+    .title-h4 {
+        font-size: 28px !important;
+    }
+
+    .label-h1 {
+        font-size: 26px !important;
+    }
+
+    .label-h2 {
+        font-size: 24px !important;
+    }
+
+    .label-h3 {
+        font-size: 22px !important;
+    }
+
+    .label-h4 {
+        font-size: 20px !important;
+    }
+
+    .label-h5 {
+        font-size: 18px !important;
+    }
+
+    .label-h6 {
+        font-size: 16px !important;
+    }
+
+    .label-h7 {
+        font-size: 14px !important;
+    }
+
+    .label-l1 {
+        font-size: 26px !important;
+    }
+
+    .label-l2 {
+        font-size: 24px !important;
+    }
+
+    .label-l3 {
+        font-size: 22px !important;
+    }
+
+    .label-l4 {
+        font-size: 20px !important;
+    }
+
+    .label-l5 {
+        font-size: 18px !important;
+    }
+
+    .label-l6 {
+        font-size: 16px !important;
+    }
+
+    .label-l7 {
+        font-size: 14px !important;
+    }
+}
+
+/* หน้าจอขนาด Tablet */
+@media (max-width: 1023px) {
+    .title-h1 {
+        font-size: 32px !important;
+    }
+
+    .title-h2 {
+        font-size: 30px !important;
+    }
+
+    .title-h3 {
+        font-size: 30px !important;
+    }
+
+    .title-h4 {
+        font-size: 28px !important;
+    }
+
+    .label-h1 {
+        font-size: 26px !important;
+    }
+
+    .label-h2 {
+        font-size: 24px !important;
+    }
+
+    .label-h3 {
+        font-size: 22px !important;
+    }
+
+    .label-h4 {
+        font-size: 20px !important;
+    }
+
+    .label-h5 {
+        font-size: 18px !important;
+    }
+
+    .label-h6 {
+        font-size: 16px !important;
+    }
+
+    .label-h7 {
+        font-size: 14px !important;
+    }
+
+    .label-l1 {
+        font-size: 26px !important;
+    }
+
+    .label-l2 {
+        font-size: 24px !important;
+    }
+
+    .label-l3 {
+        font-size: 22px !important;
+    }
+
+    .label-l4 {
+        font-size: 20px !important;
+    }
+
+    .label-l5 {
+        font-size: 18px !important;
+    }
+
+    .label-l6 {
+        font-size: 16px !important;
+    }
+
+    .label-l7 {
+        font-size: 14px !important;
+    }
+}
+
+/* หน้าจอขนาดมือถือ */
+@media (max-width: 767px) {
+    .title-h1 {
+        font-size: 32px !important;
+    }
+
+    .title-h2 {
+        font-size: 30px !important;
+    }
+
+    .title-h3 {
+        font-size: 28px !important;
+    }
+
+    .title-h4 {
+        font-size: 26px !important;
+    }
+
+    .label-h1 {
+        font-size: 26px !important;
+    }
+
+    .label-h2 {
+        font-size: 24px !important;
+    }
+
+    .label-h3 {
+        font-size: 22px !important;
+    }
+
+    .label-h4 {
+        font-size: 20px !important;
+    }
+
+    .label-h5 {
+        font-size: 18px !important;
+    }
+
+    .label-h6 {
+        font-size: 16px !important;
+    }
+
+    .label-h7 {
+        font-size: 14px !important;
+    }
+
+    .label-l1 {
+        font-size: 26px !important;
+    }
+
+    .label-l2 {
+        font-size: 24px !important;
+    }
+
+    .label-l3 {
+        font-size: 22px !important;
+    }
+
+    .label-l4 {
+        font-size: 20px !important;
+    }
+
+    .label-l5 {
+        font-size: 18px !important;
+    }
+
+    .label-l6 {
+        font-size: 16px !important;
+    }
+
+    .label-l7 {
+        font-size: 14px !important;
+    }
+}

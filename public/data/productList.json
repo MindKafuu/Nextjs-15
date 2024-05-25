@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "พร้อมส่ง ขายาว ฮาราจูกุ เอวปรับได้ ทรงหลวม คาร์โก้",
+    "quantity": 2,
+    "price": 129,
+    "image": "",
+    "category": "clothes"
+  },
+  {
+    "id": 2,
+    "name": "กางเกงขาสั้นผู้ชาย ลําลอง ทรงหลวม สวมใส่สบาย แฟชั่นสําหรับ",
+    "quantity": 4,
+    "price": 158,
+    "image": "",
+    "category": "clothes"
+  },
+  {
+    "id": 3,
+    "name": "WARRIX เสื้อโปโล PIN (WA-232PLACL34) V.2",
+    "quantity": 5,
+    "price": 284,
+    "image": "",
+    "category": "clothes"
+  },
+  {
+    "id": 4,
+    "name": "Simplus เครื่องดูดฝุ่นแบบมีสาย 12000pa แรงดูดสูง เหมาะสำหรับอพาร์ทเมนท์ขนาดเล็ก เครื่องดูดฝุ่น XCQI002",
+    "quantity": 1,
+    "price": 529,
+    "image": "",
+    "category": "electronics"
+  },
+  {
+    "id": 5,
+    "name": "Simplus Airfryer หม้อทอดไร้น้ำมันอเนกประสงค์​ ความจุขนาดใหญ่​ 4 ลิตร​พร้อมตะแกรงรองหม้อทอด​ KQZG007",
+    "quantity": 2,
+    "price": 899,
+    "image": "",
+    "category": "electronics"
+  },
+  {
+    "id": 6,
+    "name": "[ NEW 2024 ] แอร์ติดผนัง Mitsubishi electric เครื่องปรับอากาศติดผนัง 9212BTU INVERTER รุ่น MSY-KY09VF",
+    "quantity": 1,
+    "price": 11990,
+    "image": "",
+    "category": "electronics"
+  },
+  {
+    "id": 7,
+    "name": "Sony เครื่องเล่นเกม PlayStation 5 Slim (รับประกันศูนย์Sonyไทย 1ปี) Sony PS5 Slim PS 5 Slim PS5Slim",
+    "quantity": 1,
+    "price": 17990,
+    "image": "",
+    "category": "gaming"
+  },
+  {
+    "id": 8,
+    "name": "[Nintendo Official Store] Nintendo Switch",
+    "quantity": 2,
+    "price": 8270,
+    "image": "",
+    "category": "gaming"
+  },
+  {
+    "id": 9,
+    "name": "พร้อมส่ง เครื่องเกม VOL.01 XBOX SERIES X | SERIES S (ประกัน 1 ปี ) ",
+    "quantity": 1,
+    "price": 12490,
+    "image": "",
+    "category": "gaming"
+  }
+]

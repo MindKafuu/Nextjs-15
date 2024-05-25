@@ -1,0 +1,113 @@
+[
+  {
+    "Category": "Coupon",
+    "CouponList": [
+      {
+        "id": 1,
+        "Campaigns": "Fixed amount",
+        "Category": "Coupon",
+        "Param1": "Amount",
+        "Param2": "50",
+        "Param3": "-"
+      },
+      {
+        "id": 2,
+        "Campaigns": "Fixed amount",
+        "Category": "Coupon",
+        "Param1": "Amount",
+        "Param2": "60",
+        "Param3": "-"
+      },
+      {
+        "id": 3,
+        "Campaigns": "Fixed amount",
+        "Category": "Coupon",
+        "Param1": "Amount",
+        "Param2": "85",
+        "Param3": "-"
+      },
+      {
+        "id": 4,
+        "Campaigns": "Percentage discount",
+        "Category": "Coupon",
+        "Param1": "Percentage",
+        "Param2": "5",
+        "Param3": "-"
+      },
+      {
+        "id": 5,
+        "Campaigns": "Percentage discount",
+        "Category": "Coupon",
+        "Param1": "Percentage",
+        "Param2": "10",
+        "Param3": "-"
+      },
+      {
+        "id": 6,
+        "Campaigns": "Percentage discount",
+        "Category": "Coupon",
+        "Param1": "Percentage",
+        "Param2": "15",
+        "Param3": "-"
+      }
+    ]
+  },
+  {
+    "Category": "On Top",
+    "CouponList": [
+      {
+        "id": 7,
+        "Campaigns": "Percentage discount by item category",
+        "Category": "On Top",
+        "Param1": "clothes",
+        "Param2": "เสื้อผ้า",
+        "Param3": "10"
+      },
+      {
+        "id": 8,
+        "Campaigns": "Percentage discount by item category",
+        "Category": "On Top",
+        "Param1": "electronics",
+        "Param2": "เครื่องใช้ไฟฟ้า",
+        "Param3": "15"
+      },
+      {
+        "id": 9,
+        "Campaigns": "Percentage discount by item category",
+        "Category": "On Top",
+        "Param1": "gaming",
+        "Param2": "เกม",
+        "Param3": "20"
+      }
+    ]
+  },
+  {
+    "Category": "Seasonal",
+    "CouponList": [
+      {
+        "id": 10,
+        "Campaigns": "Special campaigns",
+        "Category": "Seasonal",
+        "Param1": "30",
+        "Param2": "200",
+        "Param3": "-"
+      },
+      {
+        "id": 11,
+        "Campaigns": "Special campaigns",
+        "Category": "Seasonal",
+        "Param1": "60",
+        "Param2": "400",
+        "Param3": "-"
+      },
+      {
+        "id": 12,
+        "Campaigns": "Special campaigns",
+        "Category": "Seasonal",
+        "Param1": "90",
+        "Param2": "800",
+        "Param3": "-"
+      }
+    ]
+  }
+]
